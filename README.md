@@ -38,22 +38,22 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width="65"/>
 <br><strong>Photoshop</strong>
-<br>⭐⭐⭐⭐⭐
+<br>⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png" width="65"/>
 <br><strong>Illustrator</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65"/>
 <br><strong>Figma</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/canva.png" width="65"/>
 <br><strong>Canva</strong>
-<br>⭐⭐⭐⭐⭐
+<br>⭐⭐⭐⭐
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
 <br><strong>Social Media</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/video-editing.png" width="65"/>
@@ -125,10 +125,10 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 ## 📚 Pengalaman & Pencapaian
 
-- 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
-- 📜 **Sertifikat [Nama Program]** - [Platform/Institusi] (2024)
-- 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
-- ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
+- 🎨 **Juara 1 Lomba Design** - Lomba Design Logo HUT RI ke 80 (2025)
+- 📜 **Sertifikat Intern** - Premier Printing (2025)
+- 🏆 **Peserta PCBB** - Kreatif Bersama Tahlil (2024)
+- ⭐ **Project Short Film** - Pembuatan Film Naga Hitam Asli Ngawi (2023)
 
 
 ---
